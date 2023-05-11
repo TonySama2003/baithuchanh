@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Bùi Hạ Vi",
+    "email": "Havi982004@gmail.com",
+    "phone": "0298249872",
+    "image": "assets/img/chef_1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Hồ Thị Hồng Phúc",
+    "email": "Hongphuc2005@gmail.com",
+    "phone": "0972312314",
+    "image": "assets/img/chef_2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Ngọc Lan",
+    "email": "becute@gmail.com",
+    "phone": "0382137484",
+    "image": "assets/img/chef_3.jpg"
+  }
+]

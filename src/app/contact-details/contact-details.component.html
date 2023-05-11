@@ -1,0 +1,8 @@
+<div class="contact-details">
+  <div *ngIf="contact">
+    <img [src]="'/' + contact.image" alt="Contact Image" width="50" height="50">
+    <h2>{{ contact.name }}</h2>
+    <p>Email: {{ contact.email }}</p>
+    <p>Phone: {{ contact.phone }}</p>
+  </div>
+</div>

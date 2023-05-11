@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  width: 50%;
+  margin: auto;
+}
+
+.left-column {
+  flex: 1;
+}
+
+.right-column {
+  flex: 1;
+}
